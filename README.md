@@ -6,7 +6,7 @@
 ### 1. 기획 의도
 ## [2. 필수 기능](https://github.com/GwaChaePah/jecheol42_docs/wiki/2.-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%B3%84-%EA%B8%B0%EB%8A%A5)
 ### 1. 메인 페이지
-### 2. 검색 페이지
+### [2. 검색 페이지](https://github.com/GwaChaePah/jecheol42_docs/wiki/2.-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%B3%84-%EA%B8%B0%EB%8A%A5#2-%EA%B2%80%EC%83%89-%ED%8E%98%EC%9D%B4%EC%A7%80)
 ### 3.  페이지
 ### 4. 상세 페이지
 ### 5. 로그인 페이지
